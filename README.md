@@ -4,7 +4,7 @@
 Created by: _**Delabrilliano Ismail**_
 <hr>
 
-## **Content**
+## **Background**
 
 Creating data visualization using Tableau on Indonesia Covid-19 Cases Dataset.
 
